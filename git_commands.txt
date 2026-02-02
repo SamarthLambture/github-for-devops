@@ -4,3 +4,6 @@ git add <file_name>
 git commit -m "<message>"
 git restore <file_name>	
 git add .	=> add all files to staged from untracked
+git remote add origin <link_created_by_repo>	=>to add on github
+git push origin master/main	=>append on github
+git clone <link_copoied_from_other_repo>
