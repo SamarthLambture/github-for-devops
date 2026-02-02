@@ -1,0 +1,6 @@
+git init
+git status
+git add <file_name>
+git commit -m "<message>"
+git restore <file_name>	
+git add .	=> add all files to staged from untracked
